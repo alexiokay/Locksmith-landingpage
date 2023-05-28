@@ -18,7 +18,7 @@ div(class="relative w-full h-[calc(70vh)] flex flex-col gap-y-6 xl:px-[12rem] lg
         button(class="bg-white rounded-r-full  w-[4rem]") 
             SearchIcon(class="h-[2rem] w-[2rem]")
     div(class="flex flex-col z-20 text-white")
-        p 24h Linia Pomocy 797 951 650
+        p 24h Linia Pomocy 123 123 123
 
 </template>
 
